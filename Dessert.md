@@ -1,4 +1,4 @@
-# Intake CTF 2026: Desert Writeup
+# IntakeCTF 2026: Desert Writeup
 
 **Category:** Full pwn  
 **Challenge Name:** Desert  
