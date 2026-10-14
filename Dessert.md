@@ -48,4 +48,4 @@ Sure enough, it revealed the flag: `Intake{th4t5_0n3_B1G_d1pp3r}`.
 
 ## Lessons Learned
 
-Through this challenge, I was able to better understand the importance of checking user privileges and `sudo` permissions. In addition, thoroughly enumerating file permissions helped to identify a weak configuration where a lower-privileged user had write access to a script executed by root. Methodically performing these steps revealed the vulnerable binary and, the underlying flag that was waiting to be uncovered.
+Through this challenge, I was able to better understand the importance of checking user privileges and `sudo` permissions. In addition, thoroughly enumerating file permissions helped to identify a weak configuration where a lower-privileged user had write access to a script executed by root. Methodically performing these steps revealed the vulnerable binary, and the underlying flag that was waiting to be uncovered.
